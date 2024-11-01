@@ -7,6 +7,7 @@
 //IMPORTANTE npm start
 //scripts/"start":"node app15.js"
 //crear el archivo .gitignore y colocar node_modules/ y .env
+//subir a github crear repositorio y subirlo
 
 const express = require('express')
 const hbs = require('hbs')
